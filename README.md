@@ -1,9 +1,9 @@
-@@ -1,17 +1,19 @@
+
 ### Hello, welcome my friend! 👋
 I am currently working on Cloud and HomeLab projects. 
 Take a peep of what I having going on :eyes:
 
-### Technologies used:
+
 ### Technologies currently learning and using
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
