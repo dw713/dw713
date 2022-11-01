@@ -1,6 +1,9 @@
 
 ### Hello, welcome my friend! :metal:
-I am currently working on Cloud and HomeLab projects. Infrastructure Operations Technican Based out in Houston, Texas.
+Dylan Wallace: Infrastructure Operations Technician Based out in Houston, Texas.
+
+I am currently working on Cloud and HomeLab projects.
+
 
 Take a peep of what I having going on :grinning:
 
