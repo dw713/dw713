@@ -1,10 +1,10 @@
 
-### Hello, welcome my friend! 👋
-I am currently working on Cloud and HomeLab projects. 
-Take a peep of what I having going on :eyes:
+### Hello, welcome my friend! :metal:
+I am currently working on Cloud and HomeLab projects. Based out in Houston, Texas.
+Take a peep of what I having going on :grinning:
 
 
-### Technologies currently learning and using
+### Current Technologies that I am Learning and Utilizing: 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
