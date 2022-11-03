@@ -1,6 +1,6 @@
 
 ### Hello, welcome my friend! :metal:
-Dylan Wallace: Infrastructure Operations Technician Based out in Houston, Texas.
+Jr. Infrastructure Engineer, pursing Cloud Engineering
 
 I am currently working on Cloud and HomeLab projects.
 
