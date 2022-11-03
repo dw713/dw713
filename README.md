@@ -23,6 +23,6 @@ Take a peep of what I having going on :grinning:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-![Pinned](https://gists-readme.yizack.com/api/pin?user={dw713}&id={terraform-aws-cloudshell-s3-bucket-deploy}&owner=true)
+(https://gists-readme.yizack.com/api/pin?user={dw713}&id={terraform-aws-cloudshell-s3-bucket-deploy}&owner=true)
 
 
