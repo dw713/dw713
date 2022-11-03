@@ -24,5 +24,5 @@ Take a peep of what I having going on :grinning:
 
 <div>
   <a href="https://github.com/dw713">
-<img height="180em" src="https://gists-readme.yizack.com/api/pin?user={username}&id={gist_id}&owner=true"/>`
+<img height="180em" src="https://gists-readme.yizack.com/api/pin?user={dylanw}&id={gist_id}&owner=true"/>`
 </div>
