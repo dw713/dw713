@@ -23,6 +23,6 @@ Take a peep of what I having going on :grinning:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-	https://gists-readme.yizack.com/api/pin?user={username}&id={gist_id}&owner=true
+![Pinned](https://gists-readme.yizack.com/api/pin?user={username}&id={gist_id}&owner=true)
 
 
