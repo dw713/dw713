@@ -1,6 +1,6 @@
 
-### Hello, welcome my friend! :metal:
-Jr. Infrastructure Engineer, pursing Cloud Engineering
+### Hello, Welcome My Friend! :metal:
+IT Professional and HomeLab advocate, pursing Cloud Engineering.
 
 I am currently working on Cloud and HomeLab projects.
 
