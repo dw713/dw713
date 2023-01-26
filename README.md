@@ -1,6 +1,6 @@
 
-### Hello, Welcome My Friend! :metal:
-IT Professional and HomeLab advocate, pursing Cloud Engineering.
+### Hello, Welcome to My GitHub my name is Dylan! :metal:
+IT Professional and HomeLab advocate, pursing Cloud Infrastructure Operations.
 
 I am currently working on Cloud and HomeLab projects.
 
